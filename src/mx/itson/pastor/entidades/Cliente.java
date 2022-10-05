@@ -6,7 +6,7 @@ package mx.itson.pastor.entidades;
 
 /**
  *
- * @author jesus
+ * @author michelle
  */
 public class Cliente {
 
