@@ -8,7 +8,7 @@ import mx.itson.pastor.persistencia.ClienteDAO;
 
 /**
  *
- * @author jesus
+ * @author michelle
  */
 public class ClienteNegocio {
     
