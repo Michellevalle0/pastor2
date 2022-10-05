@@ -14,7 +14,7 @@ import java.sql.ResultSet;
 import java.sql.PreparedStatement;
 /**
  *
- * @author jesus
+ * @author michelle
  */
 public class ClienteDAO {
     
